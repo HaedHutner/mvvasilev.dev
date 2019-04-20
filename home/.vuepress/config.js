@@ -13,7 +13,7 @@ module.exports = {
     },
     themeConfig: {
         displayAllHeaders: true,
-        sidebarDepth: 2,
+        sidebarDepth: 1,
         locales: {
             '/': {
                 selectText: "Language",
@@ -23,7 +23,8 @@ module.exports = {
                     "/biography",
                     "/technologies",
                     "/education",
-                    "/projects"
+                    "/projects",
+                    "/contacts"
                 ]
             },
             '/bg/': {

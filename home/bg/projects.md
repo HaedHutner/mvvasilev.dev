@@ -40,7 +40,7 @@ public github organization: [https://github.com/Atherys-Horizons](https://github
 These plugins started off as small, independent pieces. With time, however,
 I've abstracted more and more of the commonalities between them into their
 own plugin, called AtherysCore. I now refer to the environment in which
-we develop A'therys plugins as the "A'therys Framework", as it builds upon
+I develop A'therys plugins as the "A'therys Framework", as it builds upon
 the Sponge API with enough technologies and functionality, that it can be
 considered a framework in and of itself.
 

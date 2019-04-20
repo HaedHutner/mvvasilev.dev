@@ -84,6 +84,12 @@ most of which are noted here:
 I've used Docker for personal projects, and professionally
 as part of a project with a microservice architecture.
 
+### Messaging
+
+* RabbitMQ
+* ActiveMQ
+* WebSockets
+
 ### Jenkins
 
 Jenkins is my default choice for an automation server.
@@ -116,9 +122,3 @@ That includes this very website, whose source you can find at [https://github.co
     * Windows XP
     * Windows 7
     * Windows 10
-
-## Front-End
-
-### VueJS
-
-### jQuery & AJAX
