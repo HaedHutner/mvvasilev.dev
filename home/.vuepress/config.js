@@ -22,7 +22,8 @@ module.exports = {
                 sidebar: [
                     "/biography",
                     "/technologies",
-                    "/education"
+                    "/education",
+                    "/projects"
                 ]
             },
             '/bg/': {
