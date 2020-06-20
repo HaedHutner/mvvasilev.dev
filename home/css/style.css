@@ -265,6 +265,10 @@ canvas {
     border-radius: 0px 0px 0px 4px;
 }
 
+#contact-card .contacts-links a.middle {
+    border-radius: 0px 0px 0px 0px;
+}
+
 #contact-card .contacts-links a.right {
     border-radius: 0px 0px 4px 0px;
 }
@@ -274,6 +278,8 @@ canvas {
 }
 
 .icon {
-    width: 50px;
-    height: 50px
+    max-width: 64px;
+    max-height: 64px;
+    width: auto;
+    height: auto;
 }
